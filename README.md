@@ -1,1 +1,1 @@
-# Bank-project
+.# Bank-project: This project is a console-based Bank Management System developed using Python. The program simulates basic banking operations such as depositing money, withdrawing money, checking account balance, and secure login using a PIN system
